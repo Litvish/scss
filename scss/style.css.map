@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "sources": [
+        "style.scss",
+        "files/colors.scss",
+        "files/mixins.scss"
+    ],
+    "names": [],
+    "mappings": "AAEA;EACI,yBCFO;ADCX;;AAGA;EACI,cAAA;EACA,cAAA;AAAJ;;AAEA;EACI,aAAA;EACA,8BAAA;AACJ;AACI;EACI,gBAAA;AACR;;AAEA;EEhBI,aAAA;EACA,sBFgBgB;EEfhB,8BAAA;EFgBA,iBAAA;EACA,gBAAA;AAGJ;AADI;EACI,yBCrBW;EDsBX,cCrBgB;EDsBhB,eAAA;EACA,eAAA;AAGR;AADQ;EACI,iBAAA;AAGZ;AADQ;EACI,iBAAA;AAGZ;AAAI;EACI,gBAAA;AAER;;AAII;EACI,yBCvCW;EDwCX,cCvCgB;ADsCxB;;AAMI;EACI,yBC9CW;ED+CX,cC9CgB;AD2CxB;;AAQI;EACI,yBCrDW;EDsDX,cCrDgB;ADgDxB;;AASA;EACI,qBAAA;EACA,iBAAA;EACA,sBAAA;EAEA,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,cCnEoB;AD4DxB",
+    "file": "style.css"
+}
